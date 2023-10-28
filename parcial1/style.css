@@ -173,3 +173,10 @@ footer button {
 }
 
 
+.services-section-2, .collaborators-section {
+    display: none;
+}
+
+#ver-mas-button {
+    display: block;
+}
